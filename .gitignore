@@ -1,0 +1,5 @@
+.DS_Store
+xcuserdata/
+GoogleService-Info.plist
+functions/.env
+functions/certFile.json
